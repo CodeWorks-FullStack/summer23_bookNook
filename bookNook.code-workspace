@@ -1,0 +1,61 @@
+
+{
+  "folders": [
+    {
+      "path": "bookNook.client",
+      "name": "client"
+    },
+    {
+      "path": "bookNook",
+      "name": "server"
+    }
+  ],
+  "settings": {
+    "editor.suggestSelection": "first",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "files.exclude": {
+      "**/.nyc_*": true,
+      "**/coverage": true,
+      "**/node_modules": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#d9b560",
+      "activityBar.background": "#d9b560",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#1f8164",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#15202b99",
+      "sash.hoverBorder": "#d9b560",
+      "statusBar.background": "#cfa237",
+      "statusBar.debuggingBackground": "#3764cf",
+      "statusBar.debuggingForeground": "#e7e7e7",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#aa8429",
+      "statusBarItem.remoteBackground": "#cfa237",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#cfa237",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#cfa23799",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#cfa237"
+  }
+}
